@@ -58,7 +58,7 @@ def response_generator():
         time.sleep(0.05)
 
 
-st.title("Daniel Pedroza_AI Chat")
+st.title("Daniel Pedroza_AI Bot")
 
 # Initialize chat history
 if "messages" not in st.session_state:
